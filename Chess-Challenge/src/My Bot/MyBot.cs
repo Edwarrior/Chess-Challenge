@@ -6,5 +6,12 @@ public class MyBot : IChessBot
     {
         Move[] moves = board.GetLegalMoves();
         return moves[0];
+
+        
+
+
+
+
+
     }
 }
